@@ -7,7 +7,7 @@ let vertikalTabText  = document.querySelectorAll('#vertikalTab #vertikalTabText'
 
 vertikalTabText.forEach(function(item , index){
   item.classList.add('h-0')
-  vertikalTab[index].classList.add('opacity-45')
+  vertikalTab[index].classList.add('opacity-25')
 })
 
 vertikalTabTitle.forEach(function(item , index){
